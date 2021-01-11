@@ -32,7 +32,7 @@ We support these files:
 * PNG (*.png*)
 * GIF (*.gif*)
 * JPEG (*.jpg*)
-* Log files (*.log*)
+* Log files (*$1000*)
 * Microsoft Word (*.docx*), Powerpoint (*.pptx*), and Excel (*.xlsx*) documents
 * Text files (*.txt*)
 * PDFs (*.pdf*)
