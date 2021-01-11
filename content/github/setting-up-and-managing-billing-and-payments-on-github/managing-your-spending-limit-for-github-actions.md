@@ -1,4 +1,4 @@
----
+$1000
 title: Managing your spending limit for GitHub Actions
 intro: 'You can set a spending limit for {% data variables.product.prodname_actions %} usage.'
 product: '{% data reusables.gated-features.actions %}'
